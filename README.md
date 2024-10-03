@@ -1,6 +1,3 @@
-Certainly! Here’s your README file with emojis added to enhance engagement:
-
-```markdown
 # Face Mask Detection Application 🦺😷
 
 This repository contains a face mask detection application built with **PyQt5** and **OpenCV**. The application captures live video from a webcam, detects faces, and indicates whether each person is wearing a mask.
